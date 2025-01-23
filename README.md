@@ -27,25 +27,12 @@
 
 ### Status
 
-![SuGeunJee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGeunJee&show_icons=true&theme=radical)
+![SuGeunJee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGeunJee&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuGeunJee&layout=compact&theme=tokyonight)
 
 ### Project
+| No | Project | Period | Description | Tech Stack | Repository |
+|----|---------|---------|-------------|------------|------------|
+| 1 |  WooriInfo | 2025.01.02 - 2025.01.21 | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | Java, MySQL | [Link](https://github.com/SuGeunJee/WooriInfo/tree/main) |
+| 2 |  auto_project  | 2025.01.16 - 2025.01.17 | 가상의 BMW 정비 데이터베이스를 활용한 SQL 정규표현식 실습 교안 | MySQL, DBeaver | [Link](https://github.com/SuGeunJee/auto_project) |
+| 3 |  Covid19-Data-Pipeline  | 2025.01.21 - 2025.01.22 | 독감 및 감기 등 호흡기 질환이 유행하고 있는 상황에서, 병원 데이터를 활용하여 실시간 환자 발생 추이를 추적할 수 있는 시스템을 구축합니다. | ES, Kibana, logstash, MySQL | [Link](https://github.com/SuGeunJee/Covid19-Data-Pipeline) |
 
-
-
-
-
-<!--
-**SuGeunJee/SuGeunJee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
