@@ -27,7 +27,12 @@
 
 ### Status
 
-![SuGeunJee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGeunJee&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuGeunJee&layout=compact&theme=tokyonight)
+![SuGeunJee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGeunJee&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuGeunJee&layout=compact&theme=tokyonight&include_forks=true&langs_count=10&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuGeunJee&layout=compact&theme=tokyonight&include_forks=true&langs_count=10)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuGeunJee&layout=compact&theme=tokyonight)
 
 ### Project
 | No | Project | Period | Description | Tech Stack | Repository |
