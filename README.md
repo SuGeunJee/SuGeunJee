@@ -34,19 +34,37 @@
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
   </tr>
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></td>
     <td><img src="https://skillicons.dev/icons?i=elasticsearch"  width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=linux"  width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="65" height="65"/></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=linux"  width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65"/></td>
   </tr>
-  
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=jquery" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=maven" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=ocaml" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=powershell" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/></td>
+  </tr>
 </table>
-
 
 ### Contact 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
