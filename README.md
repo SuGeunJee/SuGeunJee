@@ -27,6 +27,27 @@
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=beats&logoColor=white)
 
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=elasticsearch"  width="65" height="65"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux"  width="65" height="65"/></td>
+  </tr>
+  
+</table>
+
+
 ### Contact 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
