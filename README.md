@@ -76,7 +76,14 @@
 ### Project
 | No | Project | Period | Description | Tech Stack | Repository |
 |----|---------|---------|-------------|------------|------------|
-| 1 |  WooriInfo | 2025.01.02 - 2025.01.21 | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | Java, MySQL | [Link](https://github.com/SuGeunJee/WooriInfo/tree/main) |
+| 1 |  WooriInfo | 2025.01.02 - 2025.01.21 | 학생들을 위한 정보 관리 시스템, 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | Java, MySQL | [Link](https://github.com/SuGeunJee/WooriInfo/tree/main) |
 | 2 |  auto_project  | 2025.01.16 - 2025.01.17 | 가상의 BMW 정비 데이터베이스를 활용한 SQL 정규표현식 실습 교안 | MySQL, DBeaver | [Link](https://github.com/SuGeunJee/auto_project) |
-| 3 |  Covid19-Data-Pipeline  | 2025.01.21 - 2025.01.22 | 독감 및 감기 등 호흡기 질환이 유행하고 있는 상황에서, 병원 데이터를 활용하여 실시간 환자 발생 추이를 추적할 수 있는 시스템을 구축합니다. | ES, Kibana, logstash, MySQL | [Link](https://github.com/SuGeunJee/Covid19-Data-Pipeline) |
+| 3 |  Covid19-Data-Pipeline  | 2025.01.21 - 2025.01.22 | 독감 및 감기 등 호흡기 질환이 유행하고 있는 상황에서, 병원 데이터를 활용하여 실시간 환자 발생 추이를 추적할 수 있는 시스템 구축 | ES, Kibana, logstash, MySQL | [Link](https://github.com/SuGeunJee/Covid19-Data-Pipeline) |
 | 4 | Card-ELK-Analytics | 2025.01.24 | 카드 데이터 시각화 | ES, Kibana, VirtualBox | [Link](https://github.com/SuGeunJee/Card-EK-Analytics) |
+| 5 | Adult-Academy | 2025.02.06 ~ 2025.02.10  | jsp를 활용한 50~60대들이 잘 모르는 생활 어플 꿀팁 공유 및 커뮤니티 웹 플랫폼 구축 | Jsp, MYSQL, Maven | [Link](https://github.com/SuGeunJee/Adult-Academy) |
+| 6 | Lonitoring | 2025.03.17 | 서버의 리소스 사용량 및 보안 이벤트를 수집, 저장하여 인프라를 효율적으로 관리하는 sh 및 로그 관리 시스템 | Shell Script, lLg, Linux | [Link](https://github.com/SuGeunJee/Lonitoring) |
+| 7 | Image-Optimizier | 2025.03.19 | Spring Boot 애플리케이션을 Docker 컨테이너로 패키징하고, Docker Hub에 푸시 및 풀 하여 실행하는 예제 | Docker, Spring | [Link](https://github.com/SuGeunJee/Image-Optimizier) |
+| 8 | docker-mysql-ha-backup | 2025.03.21 | Docker 환경에서 MySQL 데이터베이스의 안정적인 백업 방법과 고가용성 구성에 대한 가이드 | Docker Compose, Shell Script | [Link](https://github.com/SuGeunJee/docker-mysql-ha-backup) |
+| 9 | Jenkins-CICD | 2025.03.25 | Jenkins를 활용한 Github PUSH 감지 CI/CD 파이프라인 구축 프로젝트 | Jenkins, Docker, Github | [Link](https://github.com/SuGeunJee/Jenkins-CICD) |
+| 10 | kubernetes-springboot-deploy | 2025.03.28 | 쿠버네티스 환경에서 스프링부트 애플리케이션을 컨테이너화하여 배포하는 실습 프로젝트 | Kubernetes, Docker, Gradle | [Link](https://github.com/SuGeunJee/kubernetes-springboot-deploy) |
+[ 11 ] B2R2 | 2021.09.01 ~ 2024.12.17 | .NET 기반 함수형 패턴 매칭 언어인 F#을 이용한 차세대 바이너리 분석 도구 | F# | [Link](https://github.com/B2R2-org/B2R2) |
