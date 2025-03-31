@@ -86,4 +86,4 @@
 | 8 | docker-mysql-ha-backup | 2025.03.21 | Docker 환경에서 MySQL 데이터베이스의 안정적인 백업 방법과 고가용성 구성에 대한 가이드 | Docker Compose, Shell Script | [Link](https://github.com/SuGeunJee/docker-mysql-ha-backup) |
 | 9 | Jenkins-CICD | 2025.03.25 | Jenkins를 활용한 Github PUSH 감지 CI/CD 파이프라인 구축 프로젝트 | Jenkins, Docker, Github | [Link](https://github.com/SuGeunJee/Jenkins-CICD) |
 | 10 | kubernetes-springboot-deploy | 2025.03.28 | 쿠버네티스 환경에서 스프링부트 애플리케이션을 컨테이너화하여 배포하는 실습 프로젝트 | Kubernetes, Docker, Gradle | [Link](https://github.com/SuGeunJee/kubernetes-springboot-deploy) |
-[ 11 ] B2R2 | 2021.09.01 ~ 2024.12.17 | .NET 기반 함수형 패턴 매칭 언어인 F#을 이용한 차세대 바이너리 분석 도구 | F# | [Link](https://github.com/B2R2-org/B2R2) |
+| 11 | B2R2 | 2021.09.01 ~ 2024.12.17 | .NET 기반 함수형 패턴 매칭 언어인 F#을 이용한 차세대 바이너리 분석 도구 | F# | [Link](https://github.com/B2R2-org/B2R2) |
