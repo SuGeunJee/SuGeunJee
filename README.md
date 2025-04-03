@@ -15,6 +15,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,6 +53,13 @@
     <td><img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65"/></td>
     <td><img src="https://skillicons.dev/icons?i=git" width="65" height="65"/></td>
     <td><img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="65" height="65"/></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=html" width="65" height="65"/></td>
