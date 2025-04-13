@@ -77,9 +77,6 @@
   </tr>
 </table>
 
-### Status
-![SuGeunJee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGeunJee&show_icons=true&theme=radical) 
-
 
 ### Project
 | No | Project | Period | Description | Tech Stack | Repository |
